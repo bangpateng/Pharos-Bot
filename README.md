@@ -2,6 +2,8 @@
 Pharos Testnet Bot Check In Daily, Claim Token and Transaction
 
 - Register Pharos Testnet : https://testnet.pharosnetwork.xyz/experience?inviteCode=IuYwB8kUuMVatpRc
+- Complete All Task
+- Done (Push Daily Task)
 
 ```
 git clone https://github.com/bangpateng/Pharos-Bot
